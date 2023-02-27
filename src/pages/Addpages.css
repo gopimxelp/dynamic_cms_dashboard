@@ -1,0 +1,16 @@
+td{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+table{
+  border-collapse: separate;
+  border-spacing: 0 20px;
+  background-color: #e3e7ee
+}
+
+table tr td{
+  padding:20px ;
+  background-color:white;
+  border: 1px solid;
+  table-layout: fixed;
+}
